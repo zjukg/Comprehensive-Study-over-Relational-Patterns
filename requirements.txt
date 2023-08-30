@@ -1,0 +1,9 @@
+dgl==1.1.0
+ipython==8.2.0
+neuralkg==1.0.21
+numpy==1.21.5
+pytorch_lightning==2.0.2
+PyYAML>=6.0
+torch==2.0.1
+wandb==0.15.2
+XlsxWriter==3.0.3
